@@ -217,8 +217,8 @@
   version = "1.0.1"
 
 [[projects]]
-  branch = "SAAS-413-return-check-description"
-  digest = "1:69e5abe2d727e14c6114b6feda0732b615a5b873a3c4bd4101bb4789978cb715"
+  branch = "PMM-2.0"
+  digest = "1:43a6c84142f4adb6523629040f442aeb790d16aca02494d97c43233cb5fa8aab"
   name = "github.com/percona/pmm"
   packages = [
     "api/alertmanager/amclient",
@@ -252,7 +252,7 @@
     "utils/tlsconfig",
   ]
   pruneopts = "NUT"
-  revision = "ce287f029dc91b9663b046269de3c1edb7a59821"
+  revision = "cd76344d2bff7cba1a27cb7873dea84e0b24de2f"
 
 [[projects]]
   digest = "1:0028cb19b2e4c3112225cd871870f2d9cf49b9b4276531f03438a88e94be86fe"
